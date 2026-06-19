@@ -1,4 +1,4 @@
-# LeadFlow Memory / LeadFlow Memory
+# Auto Lead Flow / 自动线索流
 
 ## Track / 赛道
 
@@ -9,13 +9,13 @@
 
 ## Description / 项目简介
 
-LeadFlow Memory is a verifiable long-term memory system for real estate sales agents, powered by Walrus and MemWal. It connects a Lead Discovery Agent and a Lead Conversion Agent into one continuous workflow: discovering high-intent buyers from social platforms, extracting customer intent, writing long-term semantic memory to MemWal, storing source evidence and decision traces on Walrus, and enabling later agents or workers to recover context for personalized follow-up. By combining recallable customer memory with verifiable artifact storage, LeadFlow Memory turns fragmented sales automation into an auditable, recoverable, multi-agent customer conversion workflow.
+Auto Lead Flow is an AI agent workflow that automatically discovers high-intent leads from social platforms, extracts buyer intent, and sends personalized outreach for continuous follow-up. In the demo scenario, the system finds potential real-estate buyers from Rednote App , identifies needs such as budget, location, layout, school district, commute, and concerns, then lets a conversion agent generate contextual follow-up messages. MemWal provides long-term customer memory across sessions and workers, while Walrus stores verifiable artifacts such as source evidence, scoring reports, conversation traces, memory updates, and handoff proofs. This makes lead discovery and outreach not only automated, but also recoverable, auditable, and trustworthy.
 
-LeadFlow Memory 是一个基于 Walrus 和 MemWal 的社交平台房产销售 Agent 可验证长期记忆系统。它连接 Lead Discovery Agent 与 Lead Conversion Agent，让系统能够从社交平台发现高意向购房线索，提取客户预算、区域、户型、学区、通勤和顾虑等长期记忆，写入 MemWal，并将来源证据、线索评分、对话记录、执行 trace 和 handoff 证明存储到 Walrus。通过可召回的语义记忆和可验证的 artifact trail，LeadFlow Memory 让销售 Agent 在跨 session、跨 workflow、跨 worker 的情况下仍能持续、自然、可审计地跟进客户。
+自动线索流是一个面向销售场景的 AI Agent 工作流，用于自动发现社交平台上的高意向线索，提取客户意图，并进行个性化触达和持续跟进。在演示场景中，系统会从小红书发现潜在购房客户，识别预算、区域、户型、学区、通勤和顾虑等需求，再由转化 Agent 生成上下文相关的跟进话术。MemWal 负责跨 session、跨 worker 的长期客户记忆，Walrus 负责保存来源证据、评分报告、对话 trace、记忆更新和 handoff proof 等可验证 artifacts，让线索发现和自动触达不仅高效，而且可恢复、可审计、可信任。
 
 ## Links / 链接
 
-- DeepSurge: TBD
+- DeepSurge: https://www.deepsurge.xyz/projects/545cc3e6-2264-4be1-8a3f-1eb206d88b0a
 - GitHub: https://github.com/jethrozz/LeadFlow-Memory
 - Demo Video: TBD
 - Website: TBD
@@ -28,6 +28,7 @@ LeadFlow Memory 是一个基于 Walrus 和 MemWal 的社交平台房产销售 Ag
 
 - Env: Testnet
 - Package ID: N/A - Walrus artifacts are stored via Walrus testnet publisher/aggregator
+
 ## Swag / 周边
 
 - [x] 我希望接收周边 / I'd like to receive swag

@@ -16,7 +16,7 @@ TradeTrace 是一个基于 Sui 的交易透明与证明平台。利用 DeepBook 
 ## Links / 链接
 
 - DeepSurge: https://www.deepsurge.xyz/projects/14a538c8-095a-4b73-86b3-04b1e03aac9d
-- GitHub: https://github.com/0xfig521/tradetrace
+- GitHub: https://github.com/0xFig159/tradetrace
 - Demo Video: https://drive.google.com/open?id=1ETAEo5KanEdc-uCrZvhBHKDO7hSJQf9u
 - Website: https://tradetrace.ygz0425.workers.dev
 

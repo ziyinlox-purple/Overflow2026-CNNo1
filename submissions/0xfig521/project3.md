@@ -15,7 +15,7 @@ Sui Actions / PTB Links 实现可分享的可编程交易块，优化 Sui 的开
 ## Links / 链接
 
 - DeepSurge: https://www.deepsurge.xyz/projects/1f81f799-8315-4575-b0d4-4082fe5c39cc
-- GitHub: https://github.com/0xfig521/sui-actions-ptb-links
+- GitHub: https://github.com/0xFig159/sui-actions-ptb-links
 - Demo Video: https://drive.google.com/open?id=1embrecG5LoqrovfdtBhhDDWikvMYsHS7
 - Website: https://sui-actions-ptb-links.ygz0425.workers.dev
 

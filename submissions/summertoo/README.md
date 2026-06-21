@@ -13,11 +13,13 @@
 
 <!-- 一段话描述你的项目：做什么，为什么重要 / What it does, why it matters -->
 
+A Web3 physics puzzle game built on Sui blockchain with Walrus decentralized storage — slingshot chickens to destroy structures and defeat bugs, with on-chain NFT skins, level pack passes, a community level marketplace, and a standalone AI Agent for managing Walrus-published levels and market data.
+
 ## Links / 链接
 
 - DeepSurge: https://www.deepsurge.xyz/projects/49d3f8c6-4084-4012-b0c5-7152b8fa849d
 - GitHub: https://github.com/summertoo/AngryChicken
-- Demo Video: https://www.youtube.com/watch?v=FZZ4tuQS1Bo
+- Demo Video: https://www.youtube.com/watch?v=4asWNca0tqQ
 - Website: https://www.etboodonline.com/crazybird/index.html
 
 ## Team / 团队成员
